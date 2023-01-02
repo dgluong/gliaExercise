@@ -6,6 +6,6 @@
 	- POST /user endpoint
 	
 ### To Run
-- npm install
-- npm start
-- complete API calls using POSTMAN/etc.
+1. npm install
+1. npm start
+1. complete API calls using POSTMAN/etc.
